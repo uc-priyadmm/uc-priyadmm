@@ -11,20 +11,6 @@
 <div size='20px'> Hi! My name is Mayank. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me 
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on My Education, Github Project , Finance etc.
-
-- 🌱 I’m currently learning Data Security , Blockchain Developement.
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Linux, Finance, Open Source 
- 
-<h2>
 
 
   
