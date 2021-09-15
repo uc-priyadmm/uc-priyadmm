@@ -13,6 +13,7 @@
 
 
 
+  </pre>  
   
 [![Mayank's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uc-priyadmm&theme=tokyonight)](https://git.io/praveenscience)
 
